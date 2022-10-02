@@ -33,10 +33,10 @@ I am a Software Engineer 👨‍💻
 ### :man_technologist: About Me :
 I have great passion for programming, particularly Backend engineering using NodeJS!
 
-- 🌍  I'm based in Nigeria <img src="https://cdn.countryflags.com/thumbs/nigeria/flag-waving-250.png" title="React" alt="React" width="40" height="40"/>
-- 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/aniebietafia)
-- 🧠  I'm learning NodeJS <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/> && Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-- 🤝  I'm open to collaborating on Projects
+- 🌍  I'm based in Nigeria
+- 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/AfiaAniebiet)
+- 🧠  I'm learning NodeJS  && Python 🐍
+- 🤝  I'm open to collaborating on Projects
 - ⚡  I'm an emerging World-class Programmer!
 
 ### :hammer_and_wrench: Languages and Tools :
