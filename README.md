@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="30px"/>
 </h1>
 
-Backend Engineer (NodeJS)
+I am a Software Engineer 👨‍💻
 -------------------------
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
