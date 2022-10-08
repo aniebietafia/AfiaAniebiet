@@ -31,7 +31,7 @@ I am a Software Engineer 👨‍💻
 
 --------------------------------------------------------------------------------------------------
 ### :man_technologist: About Me :
-I have great passion for programming, particularly Backend engineering using NodeJS!
+I am a passionate, dedicated & enthusiastic NodeJs developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team. I am currently a student at ALX-Africa and I am making excellent progress thus far.
 
 - 🌍  I'm based in Nigeria
 - 🖥️  See my portfolio at [MyPortfolio](http://https://github.com/AfiaAniebiet)
