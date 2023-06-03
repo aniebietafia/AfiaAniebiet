@@ -1,4 +1,3 @@
-![Imgur](https://i.imgur.com/JnknPtt.gif)
 <!-- 
 ![Imgur](https://i.imgur.com/LXh1hEy.png)
 # WELCOME to My Repository
