@@ -1,13 +1,4 @@
-<!-- 
-![Imgur](https://i.imgur.com/LXh1hEy.png)
-# WELCOME to My Repository
 
-> - **Name**: “Aniebiet Afia”,
-> - **Job**: [“Software Engineer”,”Cisco professional”],
-> - **SoftSkills**: [”Creativity”, “Adaptability”,“Collaboration”,”Time management”,”Persuasion”],
-> - **HardSkills**: [”Problem-solving”, “Multitasking”, “Attention to detail”, “Software designing”, “Software development”],
-> - **Hobbies**: [”Coding”, “Videogames”, “Music”,“Climb mountains”,“Grow plants”,”Travel”,”Smile to life”,”Anything crazy”],
-> - **Technologies**: ["Javascript","MySQL","Python","HTML","CSS","Git","ReactJS","VueJS","NodeJS","Express","MongoDB"] 
 ### :man_technologist: About Me :
 I am a passionate, dedicated & enthusiastic NodeJs developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team. I am currently a student at ALX-Africa and I am making excellent progress thus far.
 
