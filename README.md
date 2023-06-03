@@ -1,35 +1,14 @@
-<h1>
-  Nice to meet you!
-  <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="30px"/>
-</h1>
+![Imgur](https://i.imgur.com/JnknPtt.gif)
+<!-- 
+![Imgur](https://i.imgur.com/LXh1hEy.png)
+# WELCOME to My Repository
 
-I am a Software Engineer 👨‍💻
--------------------------
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="300"/>
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/aniebietafia/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC90-T5_2yuuUW_U08jEOZ4Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/AfiaAniebiet">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniebietafia&style=flat-square&color=blue" alt=""/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="500"/>
-</div>
-
---------------------------------------------------------------------------------------------------
+> - **Name**: “Aniebiet Afia”,
+> - **Job**: [“Software Engineer”,”Cisco professional”],
+> - **SoftSkills**: [”Creativity”, “Adaptability”,“Collaboration”,”Time management”,”Persuasion”],
+> - **HardSkills**: [”Problem-solving”, “Multitasking”, “Attention to detail”, “Software designing”, “Software development”],
+> - **Hobbies**: [”Coding”, “Videogames”, “Music”,“Climb mountains”,“Grow plants”,”Travel”,”Smile to life”,”Anything crazy”],
+> - **Technologies**: ["Javascript","MySQL","Python","HTML","CSS","Git","ReactJS","VueJS","NodeJS","Express","MongoDB"] 
 ### :man_technologist: About Me :
 I am a passionate, dedicated & enthusiastic NodeJs developer. I enjoy building projects to develope my skillset in the ecosystem but also enjoy working in a team. I am currently a student at ALX-Africa and I am making excellent progress thus far.
 
